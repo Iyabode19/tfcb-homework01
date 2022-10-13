@@ -3,7 +3,7 @@
 ## Ant Species Identified
  
 - Available images of the [ant species](messy-project-directory/images)
-- Tidy version of the survey data [survey data](messy-project-directory/data)
+- Tidy version of the [survey data](messy-project-directory/data)
 
 ## Scripts For Data Analysis
 
