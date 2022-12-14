@@ -9,7 +9,7 @@
 
 - To streamline data analysis and ensure consistent outputs, utilize [these scripts](messy-project-directory/scripts) 
 
-##Dec2022 Update
+## Dec2022 Update
 
 - The most photogenic ant award goes to: https://github.com/Iyabode19/tfcb-homework01/blob/main/messy-project-directory/images/rhytidoponera_metallica.jpg
 
